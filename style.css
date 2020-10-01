@@ -14,7 +14,7 @@ body {
 }
 body::before {
     content: '';
-    background-image: url(/bg-top.svg);
+    background-image: url(bg-top.svg);
     background-position: top right;
     background-repeat: no-repeat;
     position: absolute;
@@ -26,7 +26,7 @@ body::before {
 }
 body::after {
     content: '';
-    background-image: url(/bg-bottom.svg);
+    background-image: url(bg-bottom.svg);
     background-position: bottom left;
     background-repeat: no-repeat;
     position: absolute;
